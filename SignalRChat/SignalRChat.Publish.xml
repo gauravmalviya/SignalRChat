@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\RND\Release" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="01/24/2014 12:35:53" />
+    <file relUrl="Scripts/jquery.signalR-1.0.0-rc1.min.js" publishTime="12/17/2012 04:00:48" />
+    <file relUrl="packages.config" publishTime="12/17/2012 04:00:49" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.SystemWeb.xml" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.Owin.xml" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.Owin.Host.SystemWeb.xml" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="Chat.aspx" publishTime="12/17/2012 08:13:49" />
+    <file relUrl="bin/SignalRChat.dll" publishTime="01/24/2014 12:35:51" />
+    <file relUrl="Scripts/jquery-1.6.4-vsdoc.js" publishTime="12/17/2012 04:00:48" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/SignalRChat.pdb" publishTime="01/24/2014 12:35:50" />
+    <file relUrl="Scripts/jquery-1.6.4.min.js" publishTime="12/17/2012 04:00:48" />
+    <file relUrl="Scripts/jquery-1.6.4.js" publishTime="12/17/2012 04:00:48" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.SystemWeb.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.Core.xml" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.Owin.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="Scripts/jquery.signalR-1.0.0-rc1.js" publishTime="12/17/2012 04:00:48" />
+    <file relUrl="Global.asax" publishTime="12/17/2012 04:09:26" />
+    <file relUrl="bin/Owin.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.AspNet.SignalR.Core.dll" publishTime="12/17/2012 04:00:44" />
+    <file relUrl="bin/Microsoft.Owin.Host.SystemWeb.dll" publishTime="12/17/2012 04:00:44" />
+  </publishProfile>
+</publishData>
